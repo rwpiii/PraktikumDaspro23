@@ -14,7 +14,6 @@ public class StudiKasus1_23 {
         int totalBayar;
         int kembalian;
         int kurang;
-
         System.out.print("Masukkan jumlah cup : ");
         jumlahCup = input.nextInt();
 
