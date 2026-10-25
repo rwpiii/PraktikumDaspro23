@@ -2,7 +2,6 @@ import java.util.Scanner;
 public class Bioskop19 {
     public static void main (String[] args){
         Scanner sc = new Scanner (System.in);
-
         int jumlah;
         int totalTiket = 0;
         int hargaTiket = 50000;
